@@ -1,0 +1,79 @@
+h1 { 
+
+
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Gaegu', cursive;
+    font-family: 'Gamja Flower', cursive;
+}
+
+.menu{
+  
+    line-height: 30px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Gaegu', cursive;
+    font-family: 'Gamja Flower', cursive;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #8c8c8c;
+    
+}
+
+.spring
+
+{
+
+    color:rgb(238, 202, 234);
+}
+.summer
+
+{
+
+    color:rgb(252, 250, 134);
+}
+
+.fall
+
+{
+
+    color:rgb(126, 73, 43);
+}
+
+.winter
+
+{
+
+    color:rgb(121, 180, 190);
+}
+
+
+.center {
+
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+    
+
+}
+
+h2{
+    
+    
+}
+
+h3{
+
+    
+}
+
+h4{
+
+    
+}
+h4{
+
+    
+}
